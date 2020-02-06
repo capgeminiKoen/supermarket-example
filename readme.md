@@ -3,7 +3,7 @@
 This is an example of how to make the supermarket assignment.
 
 See the following youtube video for the entire explanation:
-https://youtu.be/HdUbXQ02PJk
+https://www.youtube.com/watch?v=NwEirZfJrvM
 
 The assignment is as follows:
 
